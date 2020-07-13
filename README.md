@@ -4,7 +4,7 @@ AI Banking - Automated credit card approval with a predictive model for commerci
 
 
 ## Description
-*Data Camp* project for deploying an automated system of credit card approval. It looks at data containing hugh loan balances, income levels, individual credit reports, amongst other customer data. Automatization is useful in this case because manually analyzing every application is error-prone and time consuming.  It is a  project to show proficiency in **cleaning datasets**, dealing with **missing values**, as well as **manipulating data** and **supervised learning techniques**. 
+*Data Camp* project for deploying an automated system of credit card approval. It looks at data containing loan balances, income levels, individual credit reports, amongst other customer data. Automatization is useful in this case because manually analyzing every application is error-prone and time consuming.  It is a  project to show proficiency in **cleaning datasets**, dealing with **missing values**, as well as **manipulating data** and **supervised learning techniques**. 
 
 ## Data
 The data for this project was scraped from the [UCI Machine Learning repository](http://archive.ics.uci.edu/ml/datasets/credit+approval). The data files are as follows:
